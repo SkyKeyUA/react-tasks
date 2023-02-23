@@ -38,7 +38,6 @@ function App() {
   //   const onChangeSearchInput = (event) => {
   // 	setSearchValue(event.target.value);
   //   }
-  console.log(collections);
   return (
     <div className="App">
       <h1>Моя коллекция фотографий</h1>
